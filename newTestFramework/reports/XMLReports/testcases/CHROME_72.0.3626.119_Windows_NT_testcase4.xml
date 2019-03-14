@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="1"
+            tests="1">
+
+  <testsuite name="testcases.testcase4"
+    errors="1" failures="1" hostname="" id="" package="testcases" skipped="0"
+    tests="1" time="13.96" timestamp="">
+  
+    <testcase name="test artsyjewels" classname="testcases.testcase4" time="13.96" assertions="1">  <failure message="Testing if element &lt;#RecoverPassword&gt; is visible. Element could not be located in 1000 ms. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;null&#34;[0m">    at Object.test artsyjewels (C:\Users\STU\newTestFramework\tests\testcases\testcase4.js:7:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.test artsyjewels (C:\Users\STU\newTestFramework\tests\testcases\testcase4.js:7:13)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
